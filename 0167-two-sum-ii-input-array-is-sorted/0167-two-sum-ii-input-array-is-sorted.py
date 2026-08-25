@@ -7,7 +7,6 @@ class Solution:
 
             if total == target:
                 return [left + 1, right + 1]
-                break
             elif total < target:
                 left += 1
             elif total > target:
