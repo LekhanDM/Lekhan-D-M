@@ -52,12 +52,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0242-valid-anagram/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
