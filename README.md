@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -90,4 +93,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0739-daily-temperatures/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
