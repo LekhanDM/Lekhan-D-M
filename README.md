@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
