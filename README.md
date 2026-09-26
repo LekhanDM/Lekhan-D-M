@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0901-online-stock-span/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0901-online-stock-span/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
